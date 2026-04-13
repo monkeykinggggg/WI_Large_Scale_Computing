@@ -32,9 +32,8 @@ And rednered images of the animation:
 ![image](example_image_from_animation.png)
 
 ## 2)
-Result of the `hpc-jobs-history` command: 
+Result of the `hpc-jobs-history` command have been copied to [txt file](output_hpc_job_history_copied.txt). Part of the output looks like this:
 ![image](hpc_jobs_history_output.png)
-![image](hpc_jobs_history_output2.png)
 Later conclusions in 2) and 3) are based on the  legend of the hpc-jobs-history command output below:
 ![image](legend.png)
 The CPU efficiency was excellent, ranging from 94.6% to 99.3%. Blender utilized all the available CPUs almost completely.
